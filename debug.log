@@ -1,0 +1,6 @@
+[0126/185135.637:ERROR:file_io_win.cc(180)] CreateFile C:\Users\aditya\AppData\Local\Temp\scoped_dir7716_863457904\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0126/185910.157:ERROR:file_io_win.cc(180)] CreateFile C:\Users\aditya\AppData\Local\Temp\scoped_dir18128_1848065370\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0126/185933.660:ERROR:file_io_win.cc(180)] CreateFile C:\Users\aditya\AppData\Local\Temp\scoped_dir19468_1689041792\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0203/153710.172:ERROR:file_io_win.cc(180)] CreateFile C:\Users\aditya\AppData\Local\Temp\scoped_dir8988_936022064\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0203/162748.636:ERROR:file_io_win.cc(180)] CreateFile C:\Users\aditya\AppData\Local\Temp\scoped_dir228_630949379\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0203/163053.218:ERROR:file_io_win.cc(180)] CreateFile C:\Users\aditya\AppData\Local\Temp\scoped_dir17264_1524583116\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
